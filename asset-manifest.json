@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/my-portfolio/static/css/main.6dfc81af.css",
+    "main.css": "/my-portfolio/static/css/main.9505bf53.css",
     "main.js": "/my-portfolio/static/js/main.868998e6.js",
     "static/media/fake_verthandi.mp3": "/my-portfolio/static/media/fake_verthandi.1bfdae75c93510cd8086.mp3",
     "static/media/logo-z.jpg": "/my-portfolio/static/media/logo-z.b1dfcb75f6515f75cb69.jpg",
@@ -12,11 +12,11 @@
     "static/media/CoolveticaRg-Regular.woff": "/my-portfolio/static/media/CoolveticaRg-Regular.8307bfa187bccdc55f4d.woff",
     "static/media/CoolveticaRg-Regular.woff2": "/my-portfolio/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
     "index.html": "/my-portfolio/index.html",
-    "main.6dfc81af.css.map": "/my-portfolio/static/css/main.6dfc81af.css.map",
+    "main.9505bf53.css.map": "/my-portfolio/static/css/main.9505bf53.css.map",
     "main.868998e6.js.map": "/my-portfolio/static/js/main.868998e6.js.map"
   },
   "entrypoints": [
-    "static/css/main.6dfc81af.css",
+    "static/css/main.9505bf53.css",
     "static/js/main.868998e6.js"
   ]
 }
