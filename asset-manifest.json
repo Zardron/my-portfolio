@@ -1,10 +1,9 @@
 {
   "files": {
-    "main.css": "/my-portfolio/static/css/main.13624acb.css",
-    "main.js": "/my-portfolio/static/js/main.4bea82d0.js",
+    "main.css": "/my-portfolio/static/css/main.6dfc81af.css",
+    "main.js": "/my-portfolio/static/js/main.868998e6.js",
     "static/media/fake_verthandi.mp3": "/my-portfolio/static/media/fake_verthandi.1bfdae75c93510cd8086.mp3",
     "static/media/logo-z.jpg": "/my-portfolio/static/media/logo-z.b1dfcb75f6515f75cb69.jpg",
-    "static/media/codechef.png": "/my-portfolio/static/media/codechef.5c3c490e18158a0f1415.png",
     "static/media/logo-z.png": "/my-portfolio/static/media/logo-z.16d88568ed2726f6a68d.png",
     "static/media/helvetica-neu.ttf": "/my-portfolio/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
     "static/media/zardron_logo_white.png": "/my-portfolio/static/media/zardron_logo_white.6e5c5884b104f1752726.png",
@@ -13,11 +12,11 @@
     "static/media/CoolveticaRg-Regular.woff": "/my-portfolio/static/media/CoolveticaRg-Regular.8307bfa187bccdc55f4d.woff",
     "static/media/CoolveticaRg-Regular.woff2": "/my-portfolio/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
     "index.html": "/my-portfolio/index.html",
-    "main.13624acb.css.map": "/my-portfolio/static/css/main.13624acb.css.map",
-    "main.4bea82d0.js.map": "/my-portfolio/static/js/main.4bea82d0.js.map"
+    "main.6dfc81af.css.map": "/my-portfolio/static/css/main.6dfc81af.css.map",
+    "main.868998e6.js.map": "/my-portfolio/static/js/main.868998e6.js.map"
   },
   "entrypoints": [
-    "static/css/main.13624acb.css",
-    "static/js/main.4bea82d0.js"
+    "static/css/main.6dfc81af.css",
+    "static/js/main.868998e6.js"
   ]
 }
