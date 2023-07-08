@@ -38,20 +38,22 @@ const About = () => {
             />
           </h1>
           <p>
-            I'm a Computer Science Undergrad student at Indian Institute of
-            Information Technology and Management, Gwalior.
+            I'm a Bachelor of Science in Information Technology Graduate at
+            University of Cebu Lapu-Lapu and Manduae (UCLM).
           </p>
           <p>
-            I'm a very ambitious Full stack developer. I love Automating tasks.
-            Also experienced with Natural Language Processing, Computer Vision.
+            A very ambitious developer. I love to code because if I can think
+            it, I can make it a reality.
           </p>
           <p>
-            I'm also a competitive coder. Python is my favorite language but
-            when it comes to competitive coding, I prefer to use C++.
+            Also a competitive coder with an amazing ability to develop websites
+            that are both functional and aesthetically pleasing. I have a strong
+            understanding of web standards and best practices, and I am
+            passionate about creating websites that users will find easy to use
+            and visually appealing.
           </p>
-          <p>In love with Open Source.</p>
           <p>
-            If I need to define myself in one sentence that would be an Anime
+            If I need to define myself in one sentence that would be an Coding
             Lover, and tech-obsessed!!!
           </p>
         </div>

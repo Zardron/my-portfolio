@@ -3,7 +3,11 @@ import LogoS from "../../assets/images/logo-z.png";
 import codechefLogo from "../../assets/images/codechef.png";
 import LogoSubtitle from "../../assets/images/zardron_logo_white.png";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faLinkedin, faGithub } from "@fortawesome/free-brands-svg-icons";
+import {
+  faLinkedin,
+  faGithub,
+  faFacebook,
+} from "@fortawesome/free-brands-svg-icons";
 import {
   faHome,
   faUser,
@@ -47,16 +51,7 @@ const Sidebar = () => {
         <ul>
           <li>
             <a
-              href="https://www.linkedin.com/in/sudip-banerjee-300b691bb/"
-              target="_blank"
-              rel="noreferrer"
-            >
-              <FontAwesomeIcon icon={faLinkedin} color="#b9b9b9" />
-            </a>
-          </li>
-          <li>
-            <a
-              href="https://github.com/metal-oopa"
+              href="https://github.com/Zardron"
               target="_blank"
               rel="noreferrer"
             >
@@ -65,11 +60,20 @@ const Sidebar = () => {
           </li>
           <li>
             <a
-              href="https://www.codechef.com/users/metal_oopa"
+              href="https://ph.linkedin.com/in/zardron-angelo-pesquera-89b8961ba"
               target="_blank"
               rel="noreferrer"
             >
-              <img src={codechefLogo} width="24" alt="Codechef" />
+              <FontAwesomeIcon icon={faLinkedin} color="#b9b9b9" />
+            </a>
+          </li>
+          <li>
+            <a
+              href=" https://www.facebook.com/zardron.pesquera/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              <FontAwesomeIcon icon={faFacebook} color="#b9b9b9" />
             </a>
           </li>
         </ul>

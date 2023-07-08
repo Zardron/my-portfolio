@@ -31,7 +31,7 @@ const Home = () => {
             <br />
             <span className={`${letterClass} _13`}>I</span>
             <span className={`${letterClass} _14`}>'m</span>
-            <img src={LogoTitle} alt="Sudip Banerjee" />
+            <img src={LogoTitle} alt="Zardron Angelo Pesquera" />
             <AnimatedLetters
               letterClass={letterClass}
               strArray={nameArray}
